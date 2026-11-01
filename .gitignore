@@ -1,4 +1,18 @@
-.next/
+# Dependencies
 node_modules/
+/.pnp
+.pnp.js
+
+# Next.js Build Output
+.next/
+out/
+build/
+
+# TypeScript Cache
+*.tsbuildinfo
+
+# OS / Editor Files
 .DS_Store
+Thumbs.db
 *.log
+.env*.local
